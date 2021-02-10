@@ -1,6 +1,18 @@
-Relevant Instructions: Run program by typing ./script.sh and then the path to the Music folder aka "./script.sh Music/"
+Synopsis:
+	This project takes the given Music folder and outputs the following statistics:
+		-Total tracks
+		-Total Artists
+		-A list of the multi-genre artists
+		-A list of Multi-disk albums
+		-A list of multi-genre artists
+		-A list of multi-disk albums
+		-A list of possible duplicate albums
+	The program performs all the tasks above using bash and the awk command.
+	
+Usage:
+	To use this program just run the script folder with the Music folder as a input to the program
+	i.e. "./script.sh Music/" Then the program will ask to enter either 1 or 2.
 
+Limitations:
+	The program only works on music folders structured almost identical to the Music/ folder, because the script uses depth to asses.
 
-Notes/Observations: I work on a mac and my computer reads some of the files as .DS_store I don't know what causes some albums to be read as .DS_store or how it will affect the results for you.
-
-Program asks you to enter 1 or 2 for if you want the output put on terminal or put into a file. 
