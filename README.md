@@ -1,4 +1,4 @@
-Synopsis:
+Synopsis:\n
 	This project takes the given Music folder and outputs the following statistics:
 		-Total tracks
 		-Total Artists
