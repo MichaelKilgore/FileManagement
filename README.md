@@ -7,7 +7,7 @@ Synopsis:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-A list of multi-genre artists\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-A list of multi-disk albums\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-A list of possible duplicate albums\
-&nbsp;&nbsp;&nbsp;The program performs all the tasks above using bash and the awk command.\
+&nbsp;&nbsp;&nbsp;The program performs all the tasks above using bash and awk.\
 \
 Usage:\
 &nbsp;&nbsp;&nbsp;To use this program just run the script folder with the Music folder as a input to the program.\
